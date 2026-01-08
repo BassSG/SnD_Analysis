@@ -1,8 +1,8 @@
 {
   "name": "APS Trading",
-  "short_name": "APS Trading",
-  "description": "AI Trading",
-  "start_url": "https://script.google.com/macros/s/AKfycbyzWXq_o8p8qOH9GFDF45eyJM2nsOEEWMIaiUHvxzkqRciz8rJEvwWu2XzS7SZGH57o/exec",
+  "short_name": "SnD_Analysis",
+  "description": "SnD_Analysis",
+  "start_url": "https://script.google.com/macros/s/AKfycbz2tajWkxl6ddQ4Ue7vZpMXog8xAaEI0GuV0wUDxN1qNzxI0lwkTaLNic73BhQErxWY/exec",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
